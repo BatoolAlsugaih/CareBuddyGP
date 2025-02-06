@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "489634597257",
+    "firebase_url": "https://carebuddy-3649e-default-rtdb.firebaseio.com",
+    "project_id": "carebuddy-3649e",
+    "storage_bucket": "carebuddy-3649e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489634597257:android:01bcec3a2a7980257db958",
+        "android_client_info": {
+          "package_name": "com.example.carebuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXr_jdzYZZNv-46lo8v6gQh5_tazY1Bhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
